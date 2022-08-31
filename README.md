@@ -1,2 +1,2 @@
 # Pentago-Game
-Simple Pentago Game with C Language
+Simple Pentago Game with C++ Language
