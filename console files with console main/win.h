@@ -1,0 +1,1 @@
+int win(char BOARD[][6]);

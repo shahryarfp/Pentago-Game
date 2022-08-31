@@ -1,0 +1,1 @@
+void rotate(int i, char k, char BOARD[][6]);
